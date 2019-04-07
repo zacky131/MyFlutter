@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "325501833102",
+    "firebase_url": "https://storelocatorflutter.firebaseio.com",
+    "project_id": "storelocatorflutter",
+    "storage_bucket": "storelocatorflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325501833102:android:8fc88b0356fd91af",
+        "android_client_info": {
+          "package_name": "com.resikin.store_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBmVQMXVB9sKBiE6uabE59BEemNbo3ek8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325501833102-t5quh727uf22ubs72tlllv8jg5jj6idd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
